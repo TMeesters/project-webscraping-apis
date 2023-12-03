@@ -1,0 +1,2 @@
+# Ignore key.txt file
+cgptkey.txt
